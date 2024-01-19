@@ -28,7 +28,7 @@ In this tutorial, we create a Resource Group in Microsoft Azure then we will put
 <h2>Actions and Observations</h2>
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/qAB5hG6.png"/>
 </p>
 <p>
 First we need to type Resource Groups in the Azure search bar then click the create resource group tab.
@@ -36,7 +36,7 @@ First we need to type Resource Groups in the Azure search bar then click the cre
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/2K1plMB.png"/>
 </p>
 <p>
 Once we are in the Resource Group make sure its under your subscription, the Resource Group name can be named RG-01, and your region US West US 3.
@@ -44,7 +44,7 @@ Once we are in the Resource Group make sure its under your subscription, the Res
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/Y3GlS3q.png"/>
 </p>
 <p>
 Next click on the Tags section of the Resource Group. Here we can create the names of people we want in the RG. 
@@ -52,7 +52,7 @@ Next click on the Tags section of the Resource Group. Here we can create the nam
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/7xQeq4R.png"/>
 </p>
 <p>
 Then go to the Review and Create tab and click the create button at the bottom left.
