@@ -60,7 +60,7 @@ Then go to the Review and Create tab and click the create button at the bottom l
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/uBSAZFv.png"/>
 </p>
 <p>
 Click the search bar and type Storage Accounts then click on the icon.
@@ -68,7 +68,7 @@ Click the search bar and type Storage Accounts then click on the icon.
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/Te8Jufs.png"/>
 </p>
 <p>
 Next click the create Storage Account tab.
@@ -76,7 +76,7 @@ Next click the create Storage Account tab.
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/K2Qdpey.png"/>
 </p>
 <p>
 In the Basics selection make sure the subsciption is the same as the Resource Group. In the Resource Group section click the one we made earlier (RG-01). The storage account name needs to be very unique and catn be already out in the network. Then for the region click US West US 3.
@@ -84,7 +84,7 @@ In the Basics selection make sure the subsciption is the same as the Resource Gr
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/mlBPkto.png"/>
 </p>
 <p>
 Go to the Review section of Storage Account. Then click the create tab at the bottom left.
@@ -92,7 +92,7 @@ Go to the Review section of Storage Account. Then click the create tab at the bo
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/Nj4muXw.png"/>
 </p>
 <p>
 Once the Storage Account is created you will see Your Deployment Is Complete with a green check to the left.
@@ -100,7 +100,7 @@ Once the Storage Account is created you will see Your Deployment Is Complete wit
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/BhITPBL.png"/>
 </p>
 <p>
 Now once we go back to Storage Accounts we can see the one we created will be on the list. Click the Storage Account you created.
@@ -108,7 +108,7 @@ Now once we go back to Storage Accounts we can see the one we created will be on
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/U1qkWmx.png"/>
 </p>
 <p>
 From here click on containers under the Data Storage section.
@@ -116,7 +116,7 @@ From here click on containers under the Data Storage section.
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/ipBt93p.png"/>
 </p>
 <p>
 Click the + Container. Then in the right section a tab will open for you to name your container. Once you are done you can create the container by clicking the create tab on the bottom right. 
@@ -124,7 +124,7 @@ Click the + Container. Then in the right section a tab will open for you to name
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/uEtuGRq.png"/>
 </p>
 <p>
 Next you can click the created container we made and upload a file by clicking the upload tab on the top left. Then a tab on the right side of your screen will appear and you may browse for your file to upload into Azure. (PLEASE NOTE) [For this example I created a txt.file in notepad from windows then you may upload the file in this section] 
@@ -132,7 +132,7 @@ Next you can click the created container we made and upload a file by clicking t
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/yJjzfJ1.png"/>
 </p>
 <p>
 Once the txt file is uploaded, refresh the page for you to see the file. Then click the file you uploaded.
@@ -140,7 +140,7 @@ Once the txt file is uploaded, refresh the page for you to see the file. Then cl
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/prdeO5Q.png"/>
 </p>
 <p>
 Click the edit tab of the .txt file.
@@ -148,7 +148,7 @@ Click the edit tab of the .txt file.
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/QATRMqg.png"/>
 </p>
 <p>
 You can edit the file by clicking enter on your keyboard to go to the next section. Then you can type anything you want then click the save button on the top left of the file.
@@ -156,7 +156,7 @@ You can edit the file by clicking enter on your keyboard to go to the next secti
 <br />
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/ooaOBjP.png"/>
 </p>
 <p>
 Next we can delete the Resource Group by typing resource group in the search bar. Next click on the Resource Group you made, then click delete resource group and a tab will appear on the right side. Type the name of the resource group in the bottom section on the right side and click the delete tab.
@@ -165,7 +165,7 @@ Next we can delete the Resource Group by typing resource group in the search bar
 
 
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/HqMikbO.png"/>
 </p>
 <p>
 The Resource will be delete as shown in the image above.
