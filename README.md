@@ -108,7 +108,7 @@ Now once we go back to Storage Accounts we can see the one we created will be on
 <br />
 
 <p>
-<img src="https://i.imgur.com/U1qkWmx.png"/>
+<img src="https://i.imgur.com/xcPsBA0.png"/>
 </p>
 <p>
 From here click on containers under the Data Storage section.
